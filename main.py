@@ -1,2 +1,2 @@
 print("Hello world")
-print("babo")
+print("٩(๑`^´๑)۶ babo babo ٩(๑`^´๑)۶ ")
