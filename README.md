@@ -1,2 +1,2 @@
 # jye_slackbot
-This is slackbot for someone to stop anything!
+This is **slackbot** for someone to stop anything!
