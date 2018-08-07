@@ -1,3 +1,3 @@
 print("Hello world")
 print("٩(๑`^´๑)۶ babo babo ٩(๑`^´๑)۶ ")
-print("웅앵웅")
+print("중국냉면맛집 알려줘")
